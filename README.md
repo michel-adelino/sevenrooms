@@ -357,7 +357,7 @@ bundle exec rspec --format documentation --color
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/smartcoder0215/sevenrooms. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/smartcoder0215/sevenrooms/blob/main/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the code of conduct.
 
 ### Development Process
 
@@ -366,11 +366,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/smartc
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## Code of Conduct
-
-Everyone interacting in the Sevenrooms project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/smartcoder0215/sevenrooms/blob/main/CODE_OF_CONDUCT.md).
